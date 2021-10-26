@@ -2,6 +2,37 @@
 
 Useful extension and some skills to improve the speend and reduce the inverted time during the coding.
 
+## Favorites commands and Shortcuts
+
+Delete auto-identation of VS Code
+```
+ ⇧ ⌥ tab
+ Shift + tab
+
+```
+
+Move chunk, lines of code after select it
+```
+ Mac - ⌥ ↓ / ⌥ ↑
+ Windows - Alt + ↑ / ↓
+
+```
+Comment chunk or specific entire line of code after select it
+```
+    ⌘ /
+    Ctrl + /
+
+```
+
+Comment only a specific word, text, code after select it
+```
+    ⇧ ⌥ A
+    Shift + Alt + A
+
+```
+
+
+
 ## Prefered Extensions for Roger Oporta 
 
 * [Activitus Bar](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.activitusbar)

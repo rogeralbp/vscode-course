@@ -6,15 +6,15 @@ Useful extension and some skills to improve the speend and reduce the inverted t
 
 Delete auto-identation of VS Code
 ```
- ⇧ ⌥ tab
- Shift + tab
+ Mac -> ⇧ ⌥ tab
+ Windows -> Shift + tab
 
 ```
 
 Move chunk, lines of code after select it
 ```
- Mac - ⌥ ↓ / ⌥ ↑
- Windows - Alt + ↑ / ↓
+    ⌥ ↓ / ⌥ ↑
+    Alt + ↑ / ↓
 
 ```
 Comment chunk or specific entire line of code after select it
@@ -31,6 +31,49 @@ Comment only a specific word, text, code after select it
 
 ```
 
+
+Remove chunk of code after select if
+```
+    ⇧ ⌘ K
+    Ctrl + Shift + K
+
+```
+
+Remove all instances of variable or memory space of code after select if
+```
+    ⇧ ⌘ L
+    Ctrl + Shift + L
+
+    and then ..
+
+    ⇧ ⌘ K
+    Ctrl + Shift + K
+
+
+```
+
+Remove a specific line of code after select if
+```
+    ⇧ ⌘ X
+    Ctrl + X
+
+```
+
+Hide Side Bar to be more focused
+```
+    ⌘ B
+    Ctrl + B
+
+```
+
+Activate Zen Mode to only be focus on a File
+
+```
+
+    ⌘ K and then press Z
+    Ctrl + K and then press Z
+
+```
 
 
 ## Prefered Extensions for Roger Oporta 

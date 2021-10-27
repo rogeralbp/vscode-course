@@ -1,6 +1,6 @@
 # VSCode Course - Extensions    
 
-Useful extension and shorcuts to improve the speed and reduce the inverted time during the coding.
+Useful extensions and shorcuts to improve the speed and reduce the inverted time during the coding.
 
 ## Prefered Extensions for Roger Oporta 
 

@@ -75,6 +75,28 @@ Activate Zen Mode to only be focus on a File
 
 ```
 
+Wrap a text, line or chunk of code in a whatever
+ you type after select it
+
+```
+    First select whatever you want to wrap
+    then ...
+
+    ⇧ ⌘ P
+    Ctrl + SHIFT + P
+
+    type for Emmet: Wrap with abbreviation
+
+    and the type whatever will wrap the previous thing selected
+```
+
+Clone / Copy line down - up after set the 
+cursor in the line that will be copied
+
+```
+    Shift + Alt +  ↓ / ↑
+
+```
 
 ## Prefered Extensions for Roger Oporta 
 

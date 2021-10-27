@@ -1,6 +1,7 @@
 # VSCode Course - Shortcuts
 
-Useful extension and some skills to improve the speend and reduce the inverted time during the coding.
+Useful extension and [shorcuts](https://github.com/rogeralbp/vscode-course/blob/master/extensions-favs.md) 
+to improve the speed and reduce the inverted time during the coding.
 
 ## Favorites commands and Shortcuts
 

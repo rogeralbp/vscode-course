@@ -107,3 +107,85 @@ Create multicursors to copy multiples lines at the same time (fav, fav)
     Ctrl + Shift + rigth arrow -> to copy the same at all lines
 
 ```
+Select all the sames instances of name, variable, etc
+```
+    ⌘ + D
+    
+    Ctrl + D
+
+    and then do whatever you want to do ....
+
+```
+
+Analize by detail the content logic of a file 
+
+```
+
+    ⌘ P => luego escribir la @
+    ⇧ ⌘ O
+
+    Ctrl + P => luego escribir la @
+    Ctrl + Shift = O
+
+    escribir " : " para agrupar los datos por tipo
+
+    and it will display all the methods, names, variables, etc by detail
+
+```
+
+Check a specific line of code
+```
+    Ctrl + G
+    Ctrl + P => luego escribir la :
+
+
+```
+
+Go to the End / Beggining of the File
+```
+    Ctrl + end/home
+
+```
+Open the Source Control View (to commit, push and pull)
+```
+    Ctrl + Shift + G
+
+```
+
+Open the Explorer View (where all the files are visible)
+```
+    Ctrl + Shift + E
+```
+
+Hide/Show the SideBar View (left)
+```
+    Ctrl + B
+
+```
+
+Open input for find especial configuration
+```
+    Ctrl + Shift + P and then type ">" 
+    
+    and the type
+    what you are looking for
+
+```
+
+Open Preview of Markdown on a new tab
+```
+    Ctrl + Shift + P and then type ">" 
+    
+    and the type
+    
+    "Markdown: Open Preview"
+```
+
+Open Preview of Markdown on the Sreen Side (right side)
+```
+    Ctrl + Shift + P and then type ">" 
+    
+    and the type
+    
+    "Markdown: Open Preview to the Side "
+```

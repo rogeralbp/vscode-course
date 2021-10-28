@@ -1,4 +1,4 @@
-export class SuperHeroe {
+export class Heroe {
 
     nombre: string;
     poder: string;

@@ -189,3 +189,10 @@ Open Preview of Markdown on the Sreen Side (right side)
     
     "Markdown: Open Preview to the Side "
 ```
+
+Change the name of a symbol and all the childs instances 
+```
+    set the cursor on the symbol and press F2 
+    and type the new name
+
+```
